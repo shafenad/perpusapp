@@ -1,0 +1,14 @@
+C:\Users\shavi\source\repos\perpusapp\perpusapp\bin\Debug\net6.0\perpusapp.exe
+C:\Users\shavi\source\repos\perpusapp\perpusapp\bin\Debug\net6.0\perpusapp.deps.json
+C:\Users\shavi\source\repos\perpusapp\perpusapp\bin\Debug\net6.0\perpusapp.runtimeconfig.json
+C:\Users\shavi\source\repos\perpusapp\perpusapp\bin\Debug\net6.0\perpusapp.dll
+C:\Users\shavi\source\repos\perpusapp\perpusapp\bin\Debug\net6.0\perpusapp.pdb
+C:\Users\shavi\source\repos\perpusapp\perpusapp\obj\Debug\net6.0\perpusapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shavi\source\repos\perpusapp\perpusapp\obj\Debug\net6.0\perpusapp.AssemblyInfoInputs.cache
+C:\Users\shavi\source\repos\perpusapp\perpusapp\obj\Debug\net6.0\perpusapp.AssemblyInfo.cs
+C:\Users\shavi\source\repos\perpusapp\perpusapp\obj\Debug\net6.0\perpusapp.csproj.CoreCompileInputs.cache
+C:\Users\shavi\source\repos\perpusapp\perpusapp\obj\Debug\net6.0\perpusapp.dll
+C:\Users\shavi\source\repos\perpusapp\perpusapp\obj\Debug\net6.0\refint\perpusapp.dll
+C:\Users\shavi\source\repos\perpusapp\perpusapp\obj\Debug\net6.0\perpusapp.pdb
+C:\Users\shavi\source\repos\perpusapp\perpusapp\obj\Debug\net6.0\perpusapp.genruntimeconfig.cache
+C:\Users\shavi\source\repos\perpusapp\perpusapp\obj\Debug\net6.0\ref\perpusapp.dll
